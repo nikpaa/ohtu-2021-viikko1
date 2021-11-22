@@ -2,14 +2,14 @@
 name = "robotframework"
 version = "4.1.2"
 description = "Generic automation framework for acceptance testing and robotic process automation (RPA)"
-category = "dev"
+category = "main"
 optional = false
 python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "a34d7a970fc34d346c58b92ed98d3fa137174a8782b8a754fcabb79c804ceafa"
+content-hash = "9d9925497d6766d1d2e68634914e46b0a98cdb684199aa1785158e808c020699"
 
 [metadata.files]
 robotframework = [
